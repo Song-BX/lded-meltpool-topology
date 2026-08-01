@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this R1 source package, please cite it."
+title: "lded-meltpool-topology-r1-reproducibility"
+version: "r1-review-2026-07-31"
+date-released: 2026-08-01
+authors:
+  - family-names: "Song-BX"
+license: "MIT (code); CC-BY-4.0 (raw numerical exports and provenance records)"
+abstract: "Source data, code, and fixed reproduction workflow for the R1 revision."
