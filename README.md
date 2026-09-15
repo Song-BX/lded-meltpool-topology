@@ -3,7 +3,7 @@
 Source data, code, and reproduction workflow for the R1 revision (`r1-review-2026-07-31`). This repository contains only the
 source materials needed to reproduce the R1 analysis workflow:
 
-- 30 FLOW-3D CSV point-cloud snapshots in `raw data/`;
+- 30 CSV point-cloud snapshots in `raw data/`;
 - 7 compact reference inputs in `reference_data/` for deterministic
   baseline checks and the archived XZ support audit;
 - supplied model-configuration and 300 W run-record files;
